@@ -1,8 +1,9 @@
 # TooTasty
 TooTasty is a full-stack website application, which can search, rate and review restaurants.
+https://tootasty.herokuapp.com/
 
 TooTasty implements authentication and authorization. Usera can only review restaurants and view their profile after logging in. What's more, 
-there are three roles: customer, owner, and admin, who have diffrent authority and view diffrente pages.
+there are three diffrent roles: customer, owner, and admin, who have diffrent authority and view diffrente pages.
 
 
 To implement this application:
